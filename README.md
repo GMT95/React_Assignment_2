@@ -49,7 +49,7 @@ Use \`id` as a key with each data rendering.
 
 ## Answer:
 
- * **hosted [here](https://gmt95.github.io/react_assignment_2/) *see(6) Rendering \`JSON from link` in variable) after opening link*** 
+ * **hosted [here](https://gmt95.github.io/react_assignment_2/) *(see(6) Rendering \`JSON from link` in variable) after opening link*** 
  * ***this repo***
 
 - - - 
